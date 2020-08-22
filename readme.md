@@ -26,9 +26,9 @@ Examples code - не полноценный проект, а отрывки ко
     <table style="font-size: 12px" width="100%" class="w3-table-all notranslate" id="myTable">
         <thead>
             <tr class="w3-white">
-                <th width="30%">Репозиторий проекта</th>
+                <th width="50%">Репозиторий проекта</th>
                 <th width="40%">Технологии</th>
-                <th width="30%">Demo</th>
+                <th width="10%">Demo</th>
             </tr>
         </thead>
         <tbody>
