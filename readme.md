@@ -1,25 +1,28 @@
 # Седов Алексей &middot; [![](https://img.shields.io/badge/resume-hh-red)](https://nn.hh.ru/resume/e72f9a98ff06c827240039ed1f735943735256) [![](https://img.shields.io/badge/-telegram-0088cc)](https://t.me/aleks_rap)
 
-### Стек технологий - 2020:
-- JS(ES6+ и выше, включая ES2020), NodeJS, Babel, WebSoket, JSON, ESLint, ООП
-- React, React-Redux, React-Router, React-Hooks
+### Стек технологий - 2021:
+- JS(ES6+ и выше, включая ES2020), NodeJS, Babel, WebSocket, JSON, ESLint, ООП
+- Flow, TypeScript
+- React, ReactRedux, ReactRouter, ReactHooks, ReduxThunk, ReduxSaga и прочие библиотеки экосистемы
+- React-Native (базовые вещи)
 - Axios, Swiper, ChartJS, Bootstrap 4 и т.д
-- JWT, YandexAPI, Firebase
+- JWT, YandexAPI, Firebase, Storybook,
+- ESLint, Pettier, Husky, LintStaged
 - Postman
-- HTML5, CSS3 (включая флексы и гриды), PUG, SASS(SCSS), БЭМ, SVGSprite, MobileFirst, Адаптивная верстка, Валидная верстка
+- HTML5, CSS3 (включая флексы и гриды), PUG, SASS(SCSS), БЭМ, SVGSprite, Fontello, MobileFirst, Адаптивная верстка, Валидная верстка
 - Webpack, Gulp
 - Git, Git Flow, GitHub, GitLab, Bitbucket
-- Jira, Trello
+- Jira, Trello, Redmine
 
 
-### В планах на обучение - 2020:
-- TypeScript, NodeJS (углубленное изучение)
+### В планах на обучение - 2021:
+- NodeJS и TypeScript (углубленное изучение)
+- ReactNative (углубленное изучение)
 - Jest, UnitTesting
-- Vue, включая всю инфраструктуру фреймворка
+- Vue 3, включая всю экосистему фреймворка
 
 
 ### Мои проекты
-
 Examples code - не полноценный проект, а отрывки кода из разных реальных проектов, с описанием и скриншотами ui и с использованием разных технологий
 
 <div class="w3-responsive">
@@ -105,11 +108,12 @@ Examples code - не полноценный проект, а отрывки ко
 - Владилен Минин - «Redux. Полный Курс 2020»
 - Юрий Бура - React + Redux - Профессиональная Разработка 2019
 - Владилен Минин - «Стань Senior Frontend Разработчиком»
+- Владилен Минин - «React Redux + Saga»
+- Владилен Минин - «Полный Курс. Уроки TypeScript»
 
 ##### В планах
 - Владилен Минин - «Jest. Unit Тестирование в JavaScript»
-- Владилен Минин - «React Redux + Saga»
 - Владилен Минин - «NextJS Быстрый Курс - SSR на React JS 2020»
+- Владилен Минин - «ReactNative 2020»
 - Владилен Минин - «SOLID Принципы в JavaScript»
-- Владилен Минин - «Полный Курс. Уроки TypeScript»
 - Владилен Минин - «Продвинутый TypeScript. Декораторы, Компилятор, Generic Types, Namespaces»
