@@ -1,9 +1,10 @@
 # Седов Алексей &middot; [![](https://img.shields.io/badge/resume-hh-red)](https://nn.hh.ru/resume/e72f9a98ff06c827240039ed1f735943735256) [![](https://img.shields.io/badge/-telegram-0088cc)](https://t.me/aleks_rap)
 
 ### Стек технологий - 2021:
-- JS(ES6+ и выше, включая ES2020), NodeJS, Babel, WebSocket, JSON, ESLint, ООП
+- JS(ES6+ и выше, включая ES2020), NodeJS (базовые вещи), Babel, WebSocket, JSON, ESLint, ООП
 - Flow, TypeScript
 - React, ReactRedux, ReactRouter, ReactHooks, ReduxThunk, ReduxSaga и прочие библиотеки экосистемы
+- JEST, React Testing Library
 - React-Native (базовые вещи)
 - Axios, Swiper, ChartJS, Bootstrap 4 и т.д
 - JWT, YandexAPI, Firebase, Storybook,
@@ -11,15 +12,25 @@
 - Postman
 - HTML5, CSS3 (включая флексы и гриды), PUG, SASS(SCSS), БЭМ, SVGSprite, Fontello, MobileFirst, Адаптивная верстка, Валидная верстка
 - Webpack, Gulp
+- Docker на уроне достаточном для frontend разработчика (собрать образ, запустить контейнер - например для тестирования запросов на бэк, когда бэк на сервере еще не обновлен)
+- Монорепозиторий на базе Lerna
 - Git, Git Flow, GitHub, GitLab, Bitbucket
 - Jira, Trello, Redmine
+- Figma
+
+### Прочее
+- Ревью кода других разработчиков
+- Планирование архитектуры проекта
+- Рефакторинг кода в процессе работы над задачами
+- Тесная работа с дизайнерами (удобство ui для конечного пользователя), 
+бэкенд разработчиками (архитектура эндпоинтов), 
+аналитиками (возможно реализации той или иной фичи, обсуждение как сделать лучше и удобнее)
+- В работе использую принцип - решаем проблемы бизнеса и делаем удобнее конечному пользователю, а не просто закрываем задачи
 
 
-### В планах на обучение - 2021:
-- NodeJS и TypeScript (углубленное изучение)
-- ReactNative (углубленное изучение)
-- Jest, UnitTesting
-- Vue 3, включая всю экосистему фреймворка
+### В планах на обучение - 2021-2022:
+- NodeJS (углубленное изучение)
+- NextJS
 
 
 ### Мои проекты
@@ -70,21 +81,6 @@ Examples code - не полноценный проект, а отрывки ко
                 <td>JavaScript, NodeJS</td>
                 <td></td>
             </tr>
-            <tr>
-                <td><a href="https://github.com/AleksRap/react-quiz">React Quiz</a></td>
-                <td>React, Firebase</td>
-                <td><a href="https://react-quiz-e6514.firebaseapp.com/">Link</a></td>
-            </tr>
-            <tr>
-                <td><a href="https://github.com/AleksRap/react-github">React Github</a></td>
-                <td>React</td>
-                <td></td>
-            </tr>
-            <tr>
-                <td><a href="https://github.com/AleksRap/get-questions">Get Questions</a></td>
-                <td>JavaScript</td>
-                <td><a href="https://podcast-app-aleksrap.firebaseapp.com/">Link</a></td>
-            </tr>
         </tbody>
     </table>
 </div>
@@ -110,10 +106,9 @@ Examples code - не полноценный проект, а отрывки ко
 - Владилен Минин - «Стань Senior Frontend Разработчиком»
 - Владилен Минин - «React Redux + Saga»
 - Владилен Минин - «Полный Курс. Уроки TypeScript»
+- Владилен Минин - «Jest. Unit Тестирование в JavaScript»
 
 ##### В планах
-- Владилен Минин - «Jest. Unit Тестирование в JavaScript»
 - Владилен Минин - «NextJS Быстрый Курс - SSR на React JS 2020»
-- Владилен Минин - «ReactNative 2020»
 - Владилен Минин - «SOLID Принципы в JavaScript»
 - Владилен Минин - «Продвинутый TypeScript. Декораторы, Компилятор, Generic Types, Namespaces»
