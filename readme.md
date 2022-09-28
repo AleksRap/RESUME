@@ -1,7 +1,7 @@
 # Седов Алексей &middot; [![](https://img.shields.io/badge/resume-hh-red)](https://nn.hh.ru/resume/e72f9a98ff06c827240039ed1f735943735256) [![](https://img.shields.io/badge/-telegram-0088cc)](https://t.me/aleks_rap)
 
-### Стек технологий - 2021:
-- JS(ES6+ и выше, включая ES2020), NodeJS (базовые вещи), Babel, WebSocket, JSON, ESLint, ООП
+### Стек технологий - 2022:
+- JS(ES6+ и выше, включая ESNext), NodeJS (базовые вещи), Babel, WebSocket, JSON, ESLint, ООП
 - Flow, TypeScript
 - React, ReactRedux, ReactRouter, ReactHooks, ReduxThunk, ReduxSaga и прочие библиотеки экосистемы
 - JEST, React Testing Library
@@ -19,6 +19,7 @@
 - Figma
 
 ### Прочее
+- Работа по scrum
 - Ревью кода других разработчиков
 - Планирование архитектуры проекта
 - Рефакторинг кода в процессе работы над задачами
@@ -28,13 +29,14 @@
 - В работе использую принцип - решаем проблемы бизнеса и делаем удобнее конечному пользователю, а не просто закрываем задачи
 
 
-### В планах на обучение - 2021-2022:
+### В планах на обучение - 2022-2023:
 - NodeJS (углубленное изучение)
 - NextJS
+- Углубленное изучение алгоритмов
 
 
 ### Мои проекты
-Examples code - не полноценный проект, а отрывки кода из разных реальных проектов, с описанием и скриншотами ui и с использованием разных технологий
+Examples code - не полноценный проект, а отрывки кода из разных реальных проектов, с описанием и скриншотами ui и с использованием разных технологий. Код из старых проектов (до 2020 года)
 
 <div class="w3-responsive">
     <table style="font-size: 12px" width="100%" class="w3-table-all notranslate" id="myTable">
@@ -47,23 +49,33 @@ Examples code - не полноценный проект, а отрывки ко
         </thead>
         <tbody>
             <tr>
-                <td><a href="https://github.com/AleksRap/examples-code">Examples code</a></td>
-                <td>JavaScript, React, React-Hooks</td>
+                <td><a href="https://github.com/AleksRap/art-passport-editor">Art passport editor</a></td>
+                <td>TypeScript, React, Canvas</td>
+                <td><a href="https://aleksrap.github.io/projects/art-passport-editor/index.html">Link</a></td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/AleksRap/pokeguides">PokeGuides</a></td>
+                <td>TypeScript, React, SCSS</td>
                 <td></td>
             </tr>
             <tr>
-                <td><a href="https://github.com/AleksRap/my-gulp">My Gulp config</a></td>
-                <td>NodeJS, Gulp</td>
+                <td><a href="https://github.com/AleksRap/yandexDiskPhotoApi">YandexDiskPhotoApi</a></td>
+                <td>TypeScript, React, RxJS</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/AleksRap/my-react-start-template">My React config</a></td>
+                <td>React, Webpack, NodeJS</td>
                 <td></td>
             </tr>
             <tr>
                 <td><a href="https://github.com/AleksRap/my-webpack">My Webpack config + ESLint</a></td>
-                <td>NodeJS, Gulp</td>
+                <td>Webpack, NodeJS</td>
                 <td></td>
             </tr>
             <tr>
-                <td><a href="https://github.com/AleksRap/my-libs">My libs</a></td>
-                <td>JavaScript, Pug, SCSS</td>
+                <td><a href="https://github.com/AleksRap/my-gulp">My Gulp config</a></td>
+                <td>Gulp, NodeJS</td>
                 <td></td>
             </tr>
             <tr>
@@ -79,6 +91,16 @@ Examples code - не полноценный проект, а отрывки ко
             <tr>
                 <td><a href="https://github.com/AleksRap/game-guess-password">Game Guess Password</a></td>
                 <td>JavaScript, NodeJS</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/AleksRap/examples-code">Examples code</a></td>
+                <td>JavaScript, React, React-Hooks</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/AleksRap/my-libs">My libs</a></td>
+                <td>JavaScript, Pug, SCSS</td>
                 <td></td>
             </tr>
         </tbody>
@@ -107,8 +129,6 @@ Examples code - не полноценный проект, а отрывки ко
 - Владилен Минин - «React Redux + Saga»
 - Владилен Минин - «Полный Курс. Уроки TypeScript»
 - Владилен Минин - «Jest. Unit Тестирование в JavaScript»
-
-##### В планах
-- Владилен Минин - «NextJS Быстрый Курс - SSR на React JS 2020»
-- Владилен Минин - «SOLID Принципы в JavaScript»
 - Владилен Минин - «Продвинутый TypeScript. Декораторы, Компилятор, Generic Types, Namespaces»
+- Владилен Минин - «SOLID Принципы в JavaScript»
+- Адитья Бхаргава - «Грокаем алгоритмы»
